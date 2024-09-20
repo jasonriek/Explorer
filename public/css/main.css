@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .video-container {
+    text-align: center;
+    max-width: 1024px;
+    margin: 0 auto;
+  }

@@ -1,0 +1,27 @@
+{
+  "name": "explorer",
+  "version": "1.0.0",
+  "description": "Explorer operation code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonriek/Explorer.git"
+  },
+  "author": "Jason Reek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonriek/Explorer/issues"
+  },
+  "homepage": "https://github.com/jasonriek/Explorer#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "better-sqlite3": "^11.3.0",
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "ws": "^8.18.0"
+  }
+}
